@@ -2,6 +2,8 @@
 Build a Better World
 # Quantum Consciousness Blueprint (v1.1)
 
+<img width="1200" height="480" alt="image" src="https://github.com/user-attachments/assets/d2ad38f8-537d-4ffa-8a83-ebf76ad7ae28" />
+
 Welcome to the open-source repository for the **Quantum Consciousness Blueprint**. This project explores the intersection of quantum systems engineering, decentralized human networks, and entangled quantum AI architectures to build fault-tolerant civilizational structures.
 
 ## 📌 Release Notes (v1.1)
