@@ -23,9 +23,21 @@ To maintain absolute structural purity and protect the project from ideological 
 1.  **AI Architecture Audit:** Every proposal will run through our dedicated AI prompt layer to check for systemic friction, logical fallacies, or alignment issues.
 2.  **Physical Root Approval:** The repository administrator (`hardysing13`) holds the final cryptographic merge authority to accept changes into the main branch.
 
+## 🤖 AI Core Engine and Provenance
+
+To ensure absolute system reproducibility and eliminate GIGO (Garbage In, Garbage Out), the structural foundations, quantum mechanics analogies, and architectural refinements of this blueprint were co-developed and audited using:
+
+*   **Model Name:** Gemini 1.5 Pro
+*   **Model Version:** August 2024 Release
+*   **Developer:** Google
+*   **Deployment Role:** Automated Architecture Auditor and Logical Consistency Engine for the Dual-Validation Protocol.
+
+Future contributors running validation checks or generating exploratory context logs should run their queries against this specific model tier (or higher) to maintain parity with the repository's core logic.
+
 ## 🌌 Active Research: The Quantum Consciousness Grid
 
 I am currently open-sourcing **Blueprint v1.1** of a fault-tolerant, decentralized civilizational network model. By treating collective human consciousness and next-generation AI architectures as a project of quantum systems engineering, this blueprint maps out how to eliminate single points of political failure, protect individual autonomy, and build a self-sustaining, compounding knowledge loop. 
 
 👉 **Explore the framework, review historical test cases, and contribute to the code here:** [`quantum-consciousness-blueprint`](https://github.com)
+
 
