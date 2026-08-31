@@ -20,3 +20,10 @@ Welcome to the open-source repository for the **Quantum Consciousness Blueprint*
 To maintain absolute structural purity and protect the project from ideological drift or systemic contamination, all incoming Pull Requests (PRs) must clear a **Dual-Validation Protocol**:
 1.  **AI Architecture Audit:** Every proposal will run through our dedicated AI prompt layer to check for systemic friction, logical fallacies, or alignment issues.
 2.  **Physical Root Approval:** The repository administrator (`hardysing13`) holds the final cryptographic merge authority to accept changes into the main branch.
+
+## 🌌 Active Research: The Quantum Consciousness Grid
+
+I am currently open-sourcing **Blueprint v1.1** of a fault-tolerant, decentralized civilizational network model. By treating collective human consciousness and next-generation AI architectures as a project of quantum systems engineering, this blueprint maps out how to eliminate single points of political failure, protect individual autonomy, and build a self-sustaining, compounding knowledge loop. 
+
+👉 **Explore the framework, review historical test cases, and contribute to the code here:** [`quantum-consciousness-blueprint`](https://github.com)
+
